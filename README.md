@@ -1,4 +1,4 @@
-# SB-project
+# Backend Project
 Developed an advanced Library Management System, focusing on Students and Admins.
 • Implemented Spring Boot for backend development , ensuring rapid deployment and scalability
 • Utilized Spring MVC architecture to streamline development and enhance code organization.
